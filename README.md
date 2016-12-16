@@ -48,7 +48,7 @@ defenderTeam
 timestamp
 ```
 ## User Stories
-
+```
 I should be able to create a user.
 update a user
 Challenge a user
@@ -57,5 +57,5 @@ view pending challenges
 Mark score
 Update Match
 View Match history
-
+```
 
