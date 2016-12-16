@@ -3,7 +3,7 @@ A Ladder that can be used to maintain an ongoing tournament.
 
 The Plan:
 
-Data will be maintain in a document database (probably monog)
+Data will be maintain in a document database (probably mongo)
 
 ladder structure
 ['Pat', 'Stanislav', 'Sohrab', 'Tim', etc]
@@ -33,12 +33,14 @@ email
 ```
 ### Challenge
 ```
+*ID
 challengerID
 defenderID
 timestamp
 ```
 ### Match
 ```
+*ID
 challengerID
 challengerTeam
 challengerScore
@@ -58,4 +60,6 @@ Mark score
 Update Match
 View Match history
 ```
+## Technology
 
+We will use: nodejs (express), mongodb, polymer, amazon web hosting
