@@ -24,18 +24,21 @@ Users can challenge one level up in the tree ie lg(index)
 ## Objects
 
 ### Person
+```
 name
 *ID
 avatar
 PIN
 email
-
+```
 ### Challenge
+```
 challengerID
 defenderID
 timestamp
-
+```
 ### Match
+```
 challengerID
 challengerTeam
 challengerScore
@@ -43,7 +46,7 @@ defenderId
 defenderScore
 defenderTeam
 timestamp
-
+```
 ## User Stories
 
 I should be able to create a user.
