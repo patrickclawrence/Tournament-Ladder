@@ -21,21 +21,21 @@ Pat   <
 ```                   
 Users can challenge one level up in the tree ie lg(index)
                       
-Objects
+## Objects
 
-[Person]
+### Person
 name
 *ID
 avatar
 PIN
 email
 
-[Challenge]
+### Challenge
 challengerID
 defenderID
 timestamp
 
-[Match]
+### Match
 challengerID
 challengerTeam
 challengerScore
@@ -44,7 +44,7 @@ defenderScore
 defenderTeam
 timestamp
 
-User Stories
+## User Stories
 
 I should be able to create a user.
 update a user
