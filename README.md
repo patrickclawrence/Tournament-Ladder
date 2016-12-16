@@ -10,6 +10,7 @@ ladder structure
 
 Visual Representation will be a Tree
 
+```
                       Tim
           Stanislav <   
         /             Mike
@@ -17,7 +18,7 @@ Pat   <
         \             Joe
           Sohrab    <
                       Doug
-                      
+```                   
 Users can challenge one level up in the tree ie lg(index)
                       
 Objects
