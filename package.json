@@ -1,0 +1,23 @@
+{
+  "name": "tourney",
+  "version": "1.0.0",
+  "description": "A tournament ladder used to manage what games are allowed to take place, what the results of games are and allowing players to challenge other players.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrickclawrence/Tournament-Ladder.git"
+  },
+  "author": "Patrick Lawrence",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patrickclawrence/Tournament-Ladder/issues"
+  },
+  "homepage": "https://github.com/patrickclawrence/Tournament-Ladder#readme"
+}

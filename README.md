@@ -72,3 +72,5 @@ sudo apt-get upgrade
 sudo apt-get install nodejs
 sudo apt-get install npm
 sudo npm install express --save
+npm install 
+bower install
