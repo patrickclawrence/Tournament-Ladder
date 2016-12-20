@@ -4,9 +4,12 @@
   "description": "A tournament ladder used to manage what games are allowed to take place, what the results of games are and allowing players to challenge other players.",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "mongodb": "^2.2.16"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
