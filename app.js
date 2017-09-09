@@ -1,5 +1,8 @@
 var express = require('express')
 var app = express()
+var mongo = require('mongodb');
+
+var mongoClient = mongodb.MongoClient;
 
 app.use('/bower_components', express.static(__dirname + '/bower_components'));
 
